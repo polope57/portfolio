@@ -16,6 +16,8 @@ Je suis désormais impatient de partager avec vous mes projets et réalisations 
 
 À bientôt !
 
+Mon CV : [pdf](https://github.com/polope57/portfolio/blob/main/CV%20Jonathan%20ROGER.pdf) 
+
 ## Table des matières
 - [A propos de moi](#a-propos-de-moi)
 - [Projets](#projets)
