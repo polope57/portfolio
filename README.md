@@ -23,7 +23,7 @@
 **Resultats :** Le client est très satisfait du résultat et souhaite un déploiement en interne dans ses process. 
 
 ### Projet FreeGliss
-**Code :** [`projet_fin_de_formation.py`](https://github.com/polope57/projet-fin-de-formation/blob/main/projet_fin_de_formation.py)    
+**Code :** [`freegliss.ipynb`](https://github.com/polope57/projet-de-formation/blob/main/projet-freegliss/freeglisse.ipynb)    
 **Description :** Scraper toutes les informations possibles sur les skis du site FreeGliss pour ensuite réaliser différentes analyses business
 **Skills :** Scraping, création d'un bot, nettoyage de données, analyse des données, data visualisation
 **Technologie :** Python, Pandas, Numpy, BeautifulSoup, requests, Matplotlib, Seaborn, PowerBi <br>
