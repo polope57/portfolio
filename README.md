@@ -5,8 +5,9 @@
 ## Table des matières
 - [A propos de moi](#a-propos-de-moi)
 - [Projets](#projets)
-- [Projets durant la formation](#projets-durant-la-formation)
+- [Projets bootcamp](#projets-bootcamp)
   - [Projet fin de formation](#projet-fin-de-formation)
+  - [Projet FreeGliss](#projet-freegliss)
 - [Certificats](#certificats)
 - [Contacts](#contacts)
 
