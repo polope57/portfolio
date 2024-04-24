@@ -5,7 +5,8 @@
 ## Table des matières
 - [A propos de moi](#a-propos-de-moi)
 - [Projets](#projets)
-        + [Projet fin de formation](#projet-fin-de-formation)
+  - [Projet fin de formation](#projet-fin-de-formation)
+- [Projets durant la formation](#projets-durant-la-formation)
 - [Certificats](#certificats)
 - [Contacts](#contacts)
 
@@ -17,6 +18,15 @@
 **Skills :** Nettoyage de données, analyse des données, environnement cloud, data visualisation
 **Technologie :** Python, Pandas, Numpy, Looker, GCP, Big Query <br>
 **Resultats :** Le client est très satisfait du résultat et souhaite un déploiement en interne dans ses process. 
+
+## Projets durant la formation
+
+### Projet FreeGliss
+**Code :** [`projet_fin_de_formation.py`](https://github.com/polope57/projet-fin-de-formation/blob/main/projet_fin_de_formation.py)    
+**Description :** Scraper toutes les informations possibles sur les skis du site FreeGliss pour ensuite réaliser différentes analyses business
+**Skills :** Scraping, création d'un bot, nettoyage de données, analyse des données, data visualisation
+**Technologie :** Python, Pandas, Numpy, BeautifulSoup, requests, Matplotlib, Seaborn, PowerBi <br>
+**Resultats :** Réussite de l'exercice
 
 ## Certificats
 - [TOSA](https://drive.google.com/drive/folders/1Ay82cnNy8f_O1H5uE0Atw115LeOmJN32?hl=fr) (Jan 2024)
