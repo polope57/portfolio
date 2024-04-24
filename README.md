@@ -5,12 +5,14 @@
 ## Table des matières
 - [A propos de moi](#a-propos-de-moi)
 - [Projets](#projets)
-  - [Projet fin de formation](#projet-fin-de-formation)
 - [Projets durant la formation](#projets-durant-la-formation)
+  - [Projet fin de formation](#projet-fin-de-formation)
 - [Certificats](#certificats)
 - [Contacts](#contacts)
 
 ## Projets
+
+## Projets durant la formation
 
 ### Projet fin de formation
 **Code :** [`projet_fin_de_formation.py`](https://github.com/polope57/projet-fin-de-formation/blob/main/projet_fin_de_formation.py)    
@@ -18,8 +20,6 @@
 **Skills :** Nettoyage de données, analyse des données, environnement cloud, data visualisation
 **Technologie :** Python, Pandas, Numpy, Looker, GCP, Big Query <br>
 **Resultats :** Le client est très satisfait du résultat et souhaite un déploiement en interne dans ses process. 
-
-## Projets durant la formation
 
 ### Projet FreeGliss
 **Code :** [`projet_fin_de_formation.py`](https://github.com/polope57/projet-fin-de-formation/blob/main/projet_fin_de_formation.py)    
