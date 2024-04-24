@@ -12,11 +12,11 @@
 ## Projets
 
 ### Projet fin de formation
-**Code:** [`projet_fin_de_formation.py`](https://github.com/polope57/projet-fin-de-formation/blob/main/projet_fin_de_formation.py)    
-**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
-**Skills:** Nettoyage de données, analyse des données, environnement cloud, data visualisation
-**Technologie:** Python, Pandas, Numpy, Looker, GCP, Big Query 
-**Resultats:** Le client est très satisfait du résultat et souhaite un déploiement en interne dans ses process. 
+**Code :** [`projet_fin_de_formation.py`](https://github.com/polope57/projet-fin-de-formation/blob/main/projet_fin_de_formation.py)    
+**Description :** Création d'un script python pour l'extraction des données par le biais d'une API sur Shopify. Ce script contient aussi le nettoyage et traitement des données, ainsi que l'envoi des données sur Big Query pour actualiser notre Looker automatiquement. 
+**Skills :** Nettoyage de données, analyse des données, environnement cloud, data visualisation
+**Technologie :** Python, Pandas, Numpy, Looker, GCP, Big Query <br>
+**Resultats :** Le client est très satisfait du résultat et souhaite un déploiement en interne dans ses process. 
 
 ## Certificats
 - [TOSA](https://drive.google.com/drive/folders/1Ay82cnNy8f_O1H5uE0Atw115LeOmJN32?hl=fr) (Jan 2024)
