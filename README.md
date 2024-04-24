@@ -33,15 +33,15 @@ Mon CV : [pdf](https://github.com/polope57/portfolio/blob/main/CV%20Jonathan%20R
 
 ### Projet fin de formation
 **Code :** [`projet_fin_de_formation.py`](https://github.com/polope57/projet-fin-de-formation/blob/main/projet_fin_de_formation.py)    
-**Description :** Création d'un script python pour l'extraction des données par le biais d'une API sur Shopify. Ce script contient aussi le nettoyage et traitement des données, ainsi que l'envoi des données sur Big Query pour actualiser notre Looker automatiquement. 
-**Skills :** Nettoyage de données, analyse des données, environnement cloud, data visualisation
+**Description :** Création d'un script python pour l'extraction des données par le biais d'une API sur Shopify. Ce script contient aussi le nettoyage et traitement des données, ainsi que l'envoi des données sur Big Query pour actualiser notre Looker automatiquement.<br> 
+**Skills :** Nettoyage de données, analyse des données, environnement cloud, data visualisation.<br>
 **Technologie :** Python, Pandas, Numpy, Looker, GCP, Big Query <br>
 **Resultats :** Le client est très satisfait du résultat et souhaite un déploiement en interne dans ses process. 
 
 ### Projet FreeGliss
 **Code :** [`freegliss.ipynb`](https://github.com/polope57/projet-de-formation/blob/main/projet-freegliss/freeglisse.ipynb)    
-**Description :** Scraper toutes les informations possibles sur les skis du site FreeGliss pour ensuite réaliser différentes analyses business
-**Skills :** Scraping, création d'un bot, nettoyage de données, analyse des données, data visualisation
+**Description :** Scraper toutes les informations possibles sur les skis du site FreeGliss pour ensuite réaliser différentes analyses business<br>
+**Skills :** Scraping, création d'un bot, nettoyage de données, analyse des données, data visualisation<br>
 **Technologie :** Python, Pandas, Numpy, BeautifulSoup, requests, Matplotlib, Seaborn, PowerBi <br>
 **Resultats :** Réussite de l'exercice
 
