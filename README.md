@@ -2,6 +2,20 @@
 
 ## A propos de moi 
 
+Bonjour à tous,
+
+Je suis Jonathan, enchanté de vous accueillir sur mon portfolio. Après avoir suivi une formation commerciale en alternance, j'ai accumulé plus de huit années d'expérience dans ce domaine. J'ai occupé divers postes, allant de responsable de rayon à technico-commercial en passant par chargé de projet et de marketing.
+
+En 2023, j'ai décidé de faire un bilan de compétences pour réfléchir à mon parcours professionnel et définir mes objectifs futurs. C'est là que j'ai découvert ma passion pour l'analyse de données et son potentiel dans le monde des affaires. Cette révélation m'a poussé à me reconvertir en tant que Data Analyst.
+
+Pour concrétiser ce nouveau projet, j'ai intégré un bootcamp intensif de trois mois chez Databird. Ce programme m'a permis d'acquérir les connaissances et compétences nécessaires pour manipuler et interpréter les données de manière stratégique, contribuant ainsi au développement des entreprises.
+
+En 2024, j'ai eu la chance d'obtenir un PVT pour réaliser mon rêve de vivre au Canada. C'est une opportunité excitante qui me permettra de m'épanouir tant sur le plan professionnel que personnel.
+
+Je suis désormais impatient de partager avec vous mes projets et réalisations dans le domaine de l'analyse de données. N'hésitez pas à explorer mon portfolio pour découvrir mon travail !
+
+À bientôt !
+
 ## Table des matières
 - [A propos de moi](#a-propos-de-moi)
 - [Projets](#projets)
