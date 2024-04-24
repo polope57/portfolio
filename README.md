@@ -29,7 +29,7 @@ Mon CV : [pdf](https://github.com/polope57/portfolio/blob/main/CV%20Jonathan%20R
 
 ## Projets
 
-## Projets durant la formation
+## Projets bootcamp
 
 ### Projet fin de formation
 **Code :** [`projet_fin_de_formation.py`](https://github.com/polope57/projet-fin-de-formation/blob/main/projet_fin_de_formation.py)    
